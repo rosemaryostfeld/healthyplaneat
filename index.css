@@ -71,6 +71,10 @@ li a:hover {
     background-color: #23A6FD;
 }
 
+.active {
+    background-color: #4CAF50;
+}
+
 img {
     display: block;
     margin: auto;
